@@ -1,0 +1,16 @@
+{
+  "name": "observable-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "watchify index.js -o index.browser.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crel": "^2.1.8",
+    "es6-weak-map": "^1.0.2",
+    "thy": "^1.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "thy-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "watchify index.js -o index.browser.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-weak-map": "^1.0.2",
+    "thy": "^1.0.0"
+  }
+}
